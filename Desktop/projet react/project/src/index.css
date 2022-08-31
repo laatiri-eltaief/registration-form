@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+
+ background:url("https://th.bing.com/th/id/R.8a21977848c3cfdc48d1c055d4971df7?rik=5xSPqwXKtAZo5A&riu=http%3a%2f%2fwww.snut.fr%2fwp-content%2fuploads%2f2015%2f11%2fimage-de-fond-4.jpg&ehk=b5zpcAUrpdUvAFPTH9eUbc69CyXKUs2wP%2bautPtIz2A%3d&risl=&pid=ImgRaw&r=0"); 
+ background-repeat:no-repeat; 
+ background-size:cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+h2{
+  text-align: center;
+  color:red;
+}
+form{
+  color:blue;
+ 
+}
